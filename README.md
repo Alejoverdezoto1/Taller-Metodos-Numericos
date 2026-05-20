@@ -1,2 +1,2 @@
-# Taller-Metodos-Numericos
+# Talleres-Metodos-Numericos
 Talleres
